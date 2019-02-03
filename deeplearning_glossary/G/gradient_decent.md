@@ -6,3 +6,4 @@ Gradient Descent is a technique to minimize loss by computing the gradients of l
 
 
 ### Different variants of gradient descent
+1. Stochastic Gradient Descent
